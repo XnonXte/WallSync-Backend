@@ -1,5 +1,4 @@
-# Todo
+# WallSync-Backend
 
-1. Create a working CRUD operation within "/wallpapers"
+(TODO: Create a readme)
 
-   - Store the name and the url of the wallpaper.
